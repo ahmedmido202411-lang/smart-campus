@@ -1,24 +1,67 @@
 {
-  "background_color": "#a68080",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Smart Campus",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "Smart Campus",
-  "start_url":( "\"start_url\": \"/\""),
-  "theme_color": "#cfd6dd",
-  "description": "IoT Smart Campus Dashboard",
+  "name": "Smart Parking",
+  "short_name": "Parking",
+  "description": "Smart Parking System Application",
   "lang": "en",
-  "id": "Smart Campus.com",
+  "dir": "ltr",
+
+  "start_url": "/",
+  "scope": "/",
+
+  "display": "standalone",
+  "orientation": "portrait",
+
+  "background_color": "#ffffff",
+  "theme_color": "#1976D2",
+
+  "categories": [
+    "utilities",
+    "navigation",
+    "productivity"
+  ],
+
   "icons": [
     {
-      "src": "icon-512x512.png",
+      "src": "icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "display_override": [
-    "window-controls-overlay"
-  ]
+
+  "prefer_related_applications": false
 }
