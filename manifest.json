@@ -3,27 +3,20 @@
   "name": "Smart Parking",
   "short_name": "Parking",
   "description": "Smart Parking System Application",
-
   "start_url": "/",
   "scope": "/",
-
   "display": "standalone",
   "orientation": "portrait",
-
   "background_color": "#FFFFFF",
   "theme_color": "#1976D2",
-
   "lang": "en",
   "dir": "ltr",
-
   "prefer_related_applications": false,
-
   "categories": [
     "utilities",
     "navigation",
     "productivity"
   ],
-
   "icons": [
     {
       "src": "/icons/icon-192.png",
