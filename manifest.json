@@ -10,5 +10,12 @@
   "theme_color": "#cfd6dd",
   "description": "IoT Smart Campus Dashboard",
   "lang": "en",
-  "id": "Smart Campus.com"
+  "id": "Smart Campus.com",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
