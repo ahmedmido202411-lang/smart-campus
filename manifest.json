@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Smart Campus",
-  "start_url": "\"start_url\": \"/\"",
+  "start_url":( "\"start_url\": \"/\""),
   "theme_color": "#cfd6dd",
   "description": "IoT Smart Campus Dashboard",
   "lang": "en",
